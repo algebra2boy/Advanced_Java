@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Person_Comparable_Dates
+comment0.text=\n\ Person_Comparable_Dates\ class\ does\ the\ following\:\n\ \n\ \ (1)\ implements\ "Comparable"\ and\ thus,\ YOU\ write\ the\ "compareTo()"\ method.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Rem\:\ \ public\ int\ compareTo(Object\ x)\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n\ \ (2)\ has\ the\ needed\ instance\ variables\:\ myFirstName\ &\ myLastName\ of\ type\ String,\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ myBirthDate\ of\ type\ Date\ (Compositioned\ inside\ of\ Person\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ in\ other\ words,\ Person\ "hasA"\ Date)\ \ \n\ \ (3)\ has\ the\ needed\ constructors\:\ default\ and\ regular\ that\ takes\ in\ 2\ Strings\ for\ the\ name\ &\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 3\ ints\ for\ the\ Date\ object.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \n\ \ (4)\ has\ getMyBirthDate()\ that\ returns\ the\ Person's\ myBirthDate.\ \n\ \ \n\ \ (5)\ has\ a\ toString()\ method\n\ \ \n
+comment1.params=
+comment1.target=Person_Comparable_Dates()
+comment2.params=myFirstName\ myLastName\ month\ day\ year
+comment2.target=Person_Comparable_Dates(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment3.params=
+comment3.target=Date\ getMyBirthDate()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=other
+comment5.target=int\ compareTo(Date)
+numComments=6

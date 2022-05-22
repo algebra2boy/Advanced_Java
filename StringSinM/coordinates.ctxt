@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=coordinates
+comment0.text=\n\ \ \ \ \ store\ the\ row\ number\ and\ column\ number\ as\ x\ corrdinate\ and\ y\ corrdinate\ to\ indicate\ the\ location\ \n
+comment1.params=row\ col
+comment1.target=coordinates(int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

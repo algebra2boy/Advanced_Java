@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Bucket
+comment1.params=
+comment1.target=void\ main()
+comment2.params=a\ buckets
+comment2.target=void\ bucketSort(int[],\ int[][])
+comment3.params=buckets\ a
+comment3.target=void\ bucketToArray(int[][],\ int[])
+comment4.params=buckets\ places\ a
+comment4.target=void\ arrayToBucket(int[][],\ int,\ int[])
+comment5.params=digit\ buckets
+comment5.target=int\ getSlot(int,\ int[][])
+comment6.params=buckets
+comment6.target=void\ printBucket(int[][])
+numComments=7

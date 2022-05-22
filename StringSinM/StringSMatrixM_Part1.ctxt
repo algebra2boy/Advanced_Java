@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=StringSMatrixM_Part1
+comment0.text=\n\ \ \ This\ project\ is\ to\ find\ the\ whether\ the\ given\ String\ s\ exists\ in\ the\ given\ 2D\ array\n\ \ \ report\ the\ first\ match\ and\ output\ their\ coordinates\ \n\ \ \ otherwise,\ no\ coordinates\ will\ be\ returned\ \ \n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=M\ s
+comment2.target=java.lang.String\ find(char[][],\ java.lang.String)
+numComments=3

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ScrambleParagraph
+comment1.params=word
+comment1.target=ScrambleParagraph(java.lang.String)
+comment2.params=word
+comment2.target=boolean\ canScramble(java.lang.String)
+comment3.params=word
+comment3.target=java.lang.String\ scrambleWord(java.lang.String)
+comment3.text=\n\ \n\ \ \ \ This\ method\ takes\ in\ a\ single\ word\ and\ scrambles\ it,\ if\ is\ scramble-able.\n\ \ \ \ It\ returns\ the\ scrambled\ word.\ \ \n\ \ \ \ Note\:\ if\ there\ is\ any\ punctuation\ at\ the\ end\ of\ a\ sentence\ \n\ \ \ \ such\ as\ a\ period,\ comma,\ question\ mark,\ or\ exclamation\ point,\ \n\ \ \ \ then\ that\ stays\ at\ the\ end.\ \ If\ the\ word\ is\ hyphenated,\ \n\ \ \ \ then\ scramble\ it\ in\ parts\ but\ do\ NOT\ cross\ over\ the\ hypen.\ \ \n\ \n\ \n
+comment4.params=sen
+comment4.target=java.lang.String\ scrambleSentence(java.lang.String)
+comment4.text=\n\ This\ method\ calls\ srambleWord(w)\ continuously,\ where\ w\ is\ a\ word\ in\ the\ sentence.\ \ \n\ This\ method\ should\ return\ the\ sentence\ as\ a\ string\ when\ it\ is\ completely\ scrambled.\n\ \n
+comment5.params=p
+comment5.target=java.lang.String\ scrambleParagraph(java.lang.String)
+comment5.text=\n\ This\ method\ calls\ scrableSentence(s)\ continuously,\ \n\ where\ s\ is\ a\ sentence\ in\ the\ paragraph.\ \ \n\ This\ method\ should\ return\ the\ paragraph\ as\ a\ string\ when\ it\ is\ completely\ scrambled.\n\ \n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

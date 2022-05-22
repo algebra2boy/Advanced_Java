@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MyTreeNode
+comment1.params=data
+comment1.target=MyTreeNode(java.lang.Object)
+comment2.params=child
+comment2.target=void\ addChild(MyTreeNode)
+comment3.params=data
+comment3.target=void\ addChild(java.lang.Object)
+comment4.params=children
+comment4.target=void\ addChildren(java.util.List)
+comment5.params=
+comment5.target=java.util.List\ getChildren()
+comment6.params=
+comment6.target=java.lang.Object\ getData()
+comment7.params=data
+comment7.target=void\ setData(java.lang.Object)
+comment8.params=parent
+comment8.target=void\ setParent(MyTreeNode)
+comment9.params=
+comment9.target=MyTreeNode\ getParent()
+numComments=10
